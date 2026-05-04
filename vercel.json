@@ -1,0 +1,24 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/assets/app/video-slider/",
+      "permanent": false
+    },
+    {
+      "source": "/form",
+      "destination": "/amazonCargo.html",
+      "permanent": false
+    },
+    {
+      "source": "/video-slider",
+      "destination": "/assets/app/video-slider/",
+      "permanent": false
+    },
+    {
+      "source": "/amazonCargo.html",
+      "destination": "/amazonCargo.html",
+      "permanent": false
+    }
+  ]
+}
